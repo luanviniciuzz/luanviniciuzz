@@ -6,8 +6,8 @@
 
  ##
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanviniciuzz&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanviniciuzz&layout=compact" />      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanviniciuzz&show_icons=true&icon_color=c0392b&title_color=2c3e50"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanviniciuzz&layout=compact&title_color=2c3e50" />      
 </div>
 <div style="justify-content: space-around">
   <img align="center" alt="Luan-Csharp" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>

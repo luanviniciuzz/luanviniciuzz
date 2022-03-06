@@ -6,10 +6,10 @@
 ## Olá 👋
 Sou desenvolvedor mobile React Native.
 
-⚡ Atualmente trabalhando na [**Processo Ágil**](https://www.processoagil.com.br/)
-💻 React Native
-🌱 Atualmente estou estudando Node.js e Python
-<img align="center" alt="Luan-Css" height="50" widht="60" src="https://i.pinimg.com/originals/6e/01/a1/6e01a1a42b48ba01c09ec268c08506c8.png"/>
+⚡ Atualmente trabalhando na [**Processo Ágil**](https://www.processoagil.com.br/).
+💻 React Native.
+🌱 Atualmente estou estudando Node.js e Python.
+💪 "DON'T TRY"
 
 
 

@@ -7,8 +7,8 @@
 Sou desenvolvedor mobile React Native.
 
 ⚡ Atualmente trabalhando na [**Processo Ágil**](https://www.processoagil.com.br/)</br>
-💻 React Native</br>
-🌱 Atualmente estou estudando Node.js e Python</br>
+💻 JavaScript, Java, Kotlin, React Native</br>
+🌱 Atualmente estou estudando Python e Java</br>
 💪 "DON'T TRY"
 
 

@@ -4,7 +4,7 @@
 </a>
 
 ## Olá 👋
-Sou desenvolvedor mobile React Native.
+Sou desenvolvedor mobile
 
 ⚡ Atualmente trabalhando na [**Processo Ágil**](https://www.processoagil.com.br/)</br>
 💻 JavaScript, Java, Kotlin, React Native</br>

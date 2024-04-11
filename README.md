@@ -4,11 +4,9 @@
 </a>
 
 ## Olá 👋
-Sou desenvolvedor mobile
 
-⚡ Atualmente trabalhando na [**Processo Ágil**](https://www.processoagil.com.br/)</br>
-💻 JavaScript, Java, Kotlin, React Native</br>
-🌱 Atualmente estou estudando Python e Java</br>
+💻 JavaScript, Java, Kotlin, Python, React Native, HTML e CSS</br>
+
 💪 "DON'T TRY"
 
 

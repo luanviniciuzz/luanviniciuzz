@@ -5,7 +5,7 @@
 
 ## Olá 👋
 
-💻 JavaScript, Java, Kotlin, Python, React Native, HTML e CSS</br>
+💻 JavaScript, C# .NET, Kotlin, Python, React Native, HTML e CSS</br>
 
 💪 "DON'T TRY"
 

@@ -5,7 +5,7 @@
 
 ## Olá 👋
 
-💻 JavaScript, C# .NET, Kotlin, Python, React Native, HTML e CSS</br>
+💻 C# .NET, Java, TypeScript, Python, C, C++</br>
 
 💪 "DON'T TRY"
 
